@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <name>Charged Keys</name>
+  <directory>chargedkeys</directory>
+  <id>2707030555</id>
+  <description>Fixes pocket actives and pocket consumables sharing the same button.
+
+  I love this game to death, but it's got a god-awful input scheme. With this mod, if you press Shift you'll use your pocket active, and if you press Q you won't. You can remap this key via [URL=https://steamcommunity.com/sharedfiles/filedetails/?id=2487535818]Mod Config Menu[/URL].
+
+  Note for T.Cain: Finish crafting by pressing Shift while holding Q. [URL=https://github.com/pie-flavor/chargedkeys]Source[/URL]</description>
+  <version>1.2</version>
+  <visibility/>
+  <tag id="Lua"/>
+  <tag id="Tweaks"/>
+</metadata>
